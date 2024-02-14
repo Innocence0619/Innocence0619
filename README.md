@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Innocence0619
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me innocence000619@gmail.com
 
 <!---
 Innocence0619/Innocence0619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
