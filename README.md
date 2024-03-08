@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Innocence0619
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on Python packages
 - 📫 How to reach me innocence000619@gmail.com
 
 <!---
